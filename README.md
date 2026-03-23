@@ -5,7 +5,7 @@
 
 <p align="center">
   Construo produtos com IA que resolvem problemas reais.<br/>
-  Fundador da <a href="https://viverdeia.ai">Viver de IA</a> — transformando negócios com inteligência artificial.
+  Mentor da <a href="https://viverdeia.ai">Viver de IA</a> — transformando negócios com inteligência artificial.
 </p>
 
 ---
